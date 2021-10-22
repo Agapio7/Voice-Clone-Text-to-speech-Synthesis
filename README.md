@@ -1,6 +1,6 @@
 # Voice clone: Text to Speech Synthesis
 
-This repository is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis(SV2TTS)](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.SV2TTS has a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
+This project is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis(SV2TTS)](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.SV2TTS has a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
 
 It consists of three independently trained components:
 
@@ -17,7 +17,7 @@ It consists of three independently trained components:
 
 ## Documentation
 
-This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from use** and **clone voice**. We have further classified them into seven steps which are given below. You can visit this link 
+This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from user** and **clone the voice**. We have further classified them into seven steps which are given below. You can visit this link 
 [voice clone project](https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/Text_to_speech_synthesis.ipynb) for more detail.
 
 Step 1:Import necessary libraries
