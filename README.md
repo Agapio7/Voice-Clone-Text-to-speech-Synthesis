@@ -1,5 +1,17 @@
 # Voice clone: Text to Speech Synthesis
 
+## Overview of Speech Synthesis
+
+Speech synthesis is the artificial production of human speech.The quality of a speech synthesizer is judged by its similarity to the human voice, and by its ability to be understood.
+
+A text-to-speech system is composed of two parts: a **front-end** and a **back-end**. 
+
+The front-end  first  converts raw text containing symbols like numbers and abbreviations into the equivalent of written-out words which are called text normalization, pre-processing, or tokenization. The front-end then assigns phonetic transcriptions to each word, and divides and marks the text into prosodic units, like phrases, clauses, and sentences called text-to-phoneme or grapheme-to-phoneme conversion. Phonetic transcriptions and prosody information together make up the symbolic linguistic representation that is output by the front-end. 
+
+Lastly, the back-end—often known to as the synthesizer—then converts the symbolic linguistic representation into sound.
+ 
+ ## Real Voice Clone project Architecture
+
 This project is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis(SV2TTS)](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.SV2TTS has a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
 
 It consists of three independently trained components:
