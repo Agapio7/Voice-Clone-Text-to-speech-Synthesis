@@ -1,6 +1,6 @@
 # Voice clone: Text to Speech Synthesis
 
-This repository is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.
+This repository is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.
 
 It consists of three independently trained components:
 
@@ -17,7 +17,8 @@ It consists of three independently trained components:
 
 ## Documentation
 
-This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from use** and **clone voice**. We have further classified them into seven steps which are given below. You can visit this link [voice clone project](https://https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/Text_to_speech_synthesis.ipynb) for more detail.
+This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from use** and **clone voice**. We have further classified them into seven steps which are given below. You can visit this link 
+[voice clone project](https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/Text_to_speech_synthesis.ipynb) for more detail.
 
 Step 1:Import necessary libraries
 
@@ -38,7 +39,7 @@ Step 7:Synthesis text to audio for Voice Clone
 
 
 ## Demo
-[Voice clone demo Video](httpsgithub.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/voice%20clone%20demo.mp4)
+[Voice clone demo Video](https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/voice%20clone%20demo.mp4)
 
 
 ## Hello , It's me Hem ✌️ 👋 ✋
@@ -47,7 +48,7 @@ Step 7:Synthesis text to audio for Voice Clone
 ## Reference
 
 
-[08 Recording Audio from a Microphone - Introduction to Google Colaboratory (Colab) for Research](https://https://www.youtube.com/watch?v=4DGkgUffWxs)
+[08 Recording Audio from a Microphone - Introduction to Google Colaboratory (Colab) for Research](https://www.youtube.com/watch?v=4DGkgUffWxs)
 
 [Recording Audio in the Browser Using the MediaStream Recorder API](https:/blog.addpipe.com/recording-audio-in-the-browser-using-pure-html5-and-minimal-javascript/)
 
@@ -57,11 +58,11 @@ Step 7:Synthesis text to audio for Voice Clone
 
 [Record to an Audio File using HTML5 and JS](https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/)
 
-[Clone Any Voice Using Machine Learning | KNOWLEDGE DOCTOR | Mishu Dhar](https://https://www.youtube.com/watch?v=2NdhKkxjf2M)
+[Clone Any Voice Using Machine Learning | KNOWLEDGE DOCTOR | Mishu Dhar](https://www.youtube.com/watch?v=2NdhKkxjf2M)
 
 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
-[Now Clone anyone's voice - simple steps - Deepfake Voice Cloning Tutorial](https://https://www.youtube.com/watch?v=I-tpsOSy5l4)
+[Now Clone anyone's voice - simple steps - Deepfake Voice Cloning Tutorial](https://www.youtube.com/watch?v=I-tpsOSy5l4)
 
 
 
