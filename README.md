@@ -17,7 +17,7 @@ It consists of three independently trained components:
 
 ## Documentation
 
-This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from use** and **clone voice**. We have further classified them into seven steps which are given below.
+This project is about real human voice cloning. The main objective of our project to generate deepfake voice similar to original Human voice.Our project can be divided into two parts: **input audio from use** and **clone voice**. We have further classified them into seven steps which are given below. You can visit this link [voice clone project](https://https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/Text_to_speech_synthesis.ipynb) for more detail.
 
 Step 1:Import necessary libraries
 
