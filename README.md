@@ -47,15 +47,18 @@ Step 6:Initialize the voice cloning models
 Step 7:Synthesis text to audio for Voice Clone
 
 
-
-
-
 ## Demo
 [Voice clone demo Video](https://github.com/Hem7513/Voice-Clone-Text-to-speech-Synthesis/blob/master/voice%20clone%20demo.mp4)
 
 
-## Hello , It's me Hem ✌️ 👋 ✋
+## Applications of Speech Synthesis
 
+It is useful for those people who suffer from dyslexia and other reading  difficulties.
+ 
+Speech synthesis techniques are also used in entertainment productions such as games and animations to generate narration and lines of dialogue according to user specifications.
+
+Used for developement of applications like electronic mail readers, conventional TTS system, educational application (as an interactive system for normal misspellings
+detection), as an interactive voice response system in telephone enquiry system and Human Computer Interaction (HCI) for remote monitoring and controlling to give information about situation.
 
 ## Reference
 
@@ -76,7 +79,7 @@ Step 7:Synthesis text to audio for Voice Clone
 
 [Now Clone anyone's voice - simple steps - Deepfake Voice Cloning Tutorial](https://www.youtube.com/watch?v=I-tpsOSy5l4)
 
-
+## Hello , It's me Hem ✌️ 👋 ✋
 
 ### Thanks for your valauable time 🙏🙏🙏
 
