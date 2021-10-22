@@ -1,6 +1,6 @@
 # Voice clone: Text to Speech Synthesis
 
-This repository is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.
+This repository is an implementation of   [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis(SV2TTS)](https://arxiv.org/abs/1806.04558) with a vocoder that works in real-time. Its a neural network-based system for text-to-speech (TTS) synthesis generate speech audio in the voice of different speakers, including those unseen during training.SV2TTS has a three-stage deep learning framework that allows to create a numerical representation of a voice from a few seconds of audio, and to use it to condition a text-to-speech model trained to generalize to new voices.
 
 It consists of three independently trained components:
 
