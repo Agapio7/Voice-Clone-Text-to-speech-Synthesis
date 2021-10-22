@@ -34,7 +34,7 @@ Step 6:Initialize the voice cloning models
 
 Step 7:Synthesis text to audio for Voice Clone
 
-Step 7:Synthesis text to audio for Voice Clone
+
 
 
 
