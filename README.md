@@ -81,7 +81,7 @@ detection), as an interactive voice response system in telephone enquiry system 
 
 ## Hello , It's me Hem ✌️ 👋 ✋
 
-### Thanks for your valauable time 🙏🙏🙏
+### Thanks for your valuable time 🙏🙏🙏
 
 
 
