@@ -57,7 +57,7 @@ It is useful for those people who suffer from dyslexia and other reading  diffic
  
 Speech synthesis techniques are also used in entertainment productions such as games and animations to generate narration and lines of dialogue according to user specifications.
 
-Used for developement of applications like electronic mail readers, conventional TTS system, educational application (as an interactive system for normal misspellings
+Speech synthesis is  also used for developement of applications like electronic mail readers, conventional TTS system, educational application (as an interactive system for normal misspellings
 detection), as an interactive voice response system in telephone enquiry system and Human Computer Interaction (HCI) for remote monitoring and controlling to give information about situation.
 
 ## Reference
